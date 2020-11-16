@@ -21,6 +21,4 @@
 
 ![Alaa's Github Stats](https://github-readme-stats.vercel.app/api?username=AlaaSaedy&show_icons=true&theme=algolia)
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=AlaaSaedy&repo=pickly-frontend)](https://github.com/thepracticaldev/dev.to)
-
 
