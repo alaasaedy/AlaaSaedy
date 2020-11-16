@@ -3,7 +3,7 @@
 <p>I'm a Front End Web Developer from Egypt, courteous and enthusiastic, self-motivated and hard-working with proven knowledge and experience in web development, seeking to join organization where I'll be able to apply my skills acquired over years to make a huge difference. I currently passionate about Progressive Web Apps, SEO, Web Performance. When I'm not developing and building things, you can find me on Youtube learning, watching movies. But most of my days are spent working on projects while listening to LoFi and Studying.</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaSaedy&layout=compact)](https://github.com/AlaaSaedy/github-readme-stats)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 
 ### 💼 Where i am currently working at/as 💼 
