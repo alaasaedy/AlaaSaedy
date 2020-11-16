@@ -9,9 +9,9 @@
 <a href="https://www.linkedin.com/in/alaasaedy/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-<h2 align="center">Hello there! My name is Alaa. 👋🤓</h2>
+<h2>Hello there! My name is Alaa. 👋🤓</h2>
 
-<p align="center">I'm a Front End Web Developer from Egypt, courteous and enthusiastic, self-motivated and hard-working Front-End developer with proven knowledge and experience in web development, seeking to join organization where I'll be able to apply my skills acquired over years to make a huge difference. I currently passionate about Progressive Web Apps, SEO, Web Performance. When I'm not developing and building things, you can find me on Youtube learning, watching movies. But most of my days are spent working on projects while listening to LoFi and Studying.</p>
+<p>I'm a Front End Web Developer from Egypt, courteous and enthusiastic, self-motivated and hard-working Front-End developer with proven knowledge and experience in web development, seeking to join organization where I'll be able to apply my skills acquired over years to make a huge difference. I currently passionate about Progressive Web Apps, SEO, Web Performance. When I'm not developing and building things, you can find me on Youtube learning, watching movies. But most of my days are spent working on projects while listening to LoFi and Studying.</p>
 
 ### 💼 Where i am currently working at/as 💼 
 
