@@ -14,7 +14,7 @@
      - [NextJs]
 
 - 📫 How to reach me:
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/alaasaedy/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
