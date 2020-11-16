@@ -8,7 +8,7 @@
 - [Front End Developer : Pickly.io](https://pickly-frontend-dev.m3ntorship.net/) 🚀
 - [Front End Developer : Ghiras](https://www.ghiras-charity.com/en) 🚀
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://res.cloudinary.com/dhwuqox2w/image/upload/v1605554508/javascript_h1u2l3.svg<Code>-<JavaScript>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 
 
