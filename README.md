@@ -8,9 +8,9 @@
 - [Pickly.io: Front End Developer](https://pickly-frontend-dev.m3ntorship.net/) 🚀
 
 - 🔭 I’m currently working on  <a href="Pickly.io">Pickly.io</a>
-- 💻 I’m currently learning 
-- [Redux - Redux Saga]
-- [NextJs]
+- 💻  I’m currently learning 
+     - [Redux - Redux Saga]
+     - [NextJs]
 
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/alaasaedy/"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
