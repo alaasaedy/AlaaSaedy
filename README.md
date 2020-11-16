@@ -8,8 +8,6 @@
 - [Front End Developer : Pickly.io](https://pickly-frontend-dev.m3ntorship.net/) 🚀
 - [Front End Developer : Ghiras](https://www.ghiras-charity.com/en) 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaSaedy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🔭 I’m currently working on  <a href="Pickly.io">Pickly.io</a>
 - 💻  I’m currently learning 
      - [Redux - Redux Saga]
