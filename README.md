@@ -5,7 +5,7 @@
 ### 💼 Where i am currently working at/as 💼 
 
 - [m3ntorship.com: Front End Developer](https://m3ntorship.com/) 
-- [Pickly.io: Front End Developer](https://pickly-frontend-dev.m3ntorship.net/)
+- [Pickly.io: Front End Developer](https://pickly-frontend-dev.m3ntorship.net/) rocket
 
 - 🔭 I’m currently working on  <a href="Pickly.io">Pickly.io</a>
 - 🌱 I’m currently learning 
