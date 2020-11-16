@@ -16,14 +16,6 @@
 
 - 📫 How to reach me:  <p> <a href="https://www.linkedin.com/in/alaasaedy/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a></p>
 
-You can find me on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-[2]: https://www.linkedin.com/in/alaasaedy/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaSaedy&layout=compact)](https://github.com/AlaaSaedy/github-readme-stats)
 
