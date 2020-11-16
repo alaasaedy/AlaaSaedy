@@ -20,7 +20,7 @@ You can find me on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
-[1.2]: https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true (LinkedIn icon without padding)
+[1.2]: https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 [2]: https://www.linkedin.com/in/alaasaedy/
