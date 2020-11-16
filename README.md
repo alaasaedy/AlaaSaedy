@@ -8,9 +8,6 @@
 - [Front End Developer : Pickly.io](https://pickly-frontend-dev.m3ntorship.net/) 🚀
 - [Front End Developer : Ghiras](https://www.ghiras-charity.com/en) 🚀
 
-![](https://res.cloudinary.com/dhwuqox2w/image/upload/v1605554508/javascript_h1u2l3.svg<Code>-<JavaScript>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
-
 
 - 🔭 I’m currently working on  <a href="Pickly.io">Pickly.io</a>
 - 💻  I’m currently learning 
@@ -18,6 +15,15 @@
      - [NextJs]
 
 - 📫 How to reach me:  <p> <a href="https://www.linkedin.com/in/alaasaedy/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a></p>
+
+You can find me on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+[2]: https://www.linkedin.com/in/alaasaedy/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaSaedy&layout=compact)](https://github.com/AlaaSaedy/github-readme-stats)
 
