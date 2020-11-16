@@ -13,7 +13,10 @@
      - [Redux - Redux Saga]
      - [NextJs]
 
-- 📫 How to reach me:   <a href="https://www.linkedin.com/in/alaasaedy/"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+- 📫 How to reach me:
+<p>
+<a href="https://www.linkedin.com/in/alaasaedy/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaSaedy&layout=compact)](https://github.com/AlaaSaedy/github-readme-stats)
 
