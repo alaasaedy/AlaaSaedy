@@ -14,4 +14,6 @@
 
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/alaasaedy/"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
-![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=AlaaSaedy&show_icons=true&theme=radical)
+![Alaa's Github Stats](https://github-readme-stats.vercel.app/api?username=AlaaSaedy&show_icons=true&theme=algolia)
+
+
