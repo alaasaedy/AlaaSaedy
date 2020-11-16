@@ -14,8 +14,7 @@
      - [NextJs]
 
 - 📫 How to reach me:  
-
-         - <a href="https://www.linkedin.com/in/alaasaedy/"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+        - <a href="https://www.linkedin.com/in/alaasaedy/"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaSaedy&layout=compact)](https://github.com/AlaaSaedy/github-readme-stats)
 
