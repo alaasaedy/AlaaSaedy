@@ -1,12 +1,10 @@
-<h2>Hello there! My name is Alaa. 👋🤓</h2>
+<h2>Hello there! 👋</h2>
 
-<p>I'm a Front End Web Developer from Egypt, courteous and enthusiastic, self-motivated and hard-working with proven knowledge and experience in web development, seeking to join organization where I'll be able to apply my skills acquired over years to make a huge difference. I currently passionate about Progressive Web Apps, SEO, Web Performance. When I'm not developing and building things, you can find me on Youtube learning, watching movies. But most of my days are spent working on projects while listening to LoFi and Studying.</p>
+<p>Enthusiastic Software developer specialized in Front-End development with a passion for software developmentg.</p>
 
 ### Where i am currently working at/as 💼 
 
-- [Front End Developer : m3ntorship.com](https://m3ntorship.com/) 🌱
-- [Front End Developer : Pickly.io](https://pickly-frontend-dev.m3ntorship.net/) 🚀
-- [Front End Developer : Ghiras](https://www.ghiras-charity.com/en) 🚀
+- [Front End Developer : Robusta Studio/)
 
 
 - 🔭 I’m currently working on  <a href="Pickly.io">Pickly.io</a>
