@@ -2,7 +2,7 @@
 
 <p>Enthusiastic Software developer specialized in Front-End development with a passion for software developmentg.</p>
 
-### Where i am currently working at/as 💼 
+### Currently working at/as 💼 
 
 - [Front End Engineer : robustastudio](https://robustastudio.com/) 🌱
 
