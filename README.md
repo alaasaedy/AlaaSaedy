@@ -4,15 +4,13 @@
 
 ### Where i am currently working at/as 💼 
 
-- [Front End Developer : m3ntorship.com](https://m3ntorship.com/) 🌱
-- [Front End Developer : Pickly.io](https://pickly-frontend-dev.m3ntorship.net/) 🚀
-- [Front End Developer : Ghiras](https://www.ghiras-charity.com/en) 🚀
+- [Front End Engineer : robustastudio](https://robustastudio.com/) 🌱
 
 
-- 🔭 I’m currently working on  <a href="Pickly.io">Pickly.io</a>
+<!-- - 🔭 I’m currently working on  <a href="Pickly.io">Pickly.io</a>
 - 💻  I’m currently learning 
      - [Redux - Redux Saga]
-     - [NextJs]
+     - [NextJs] -->
 
 - 📫 How to reach me:  <p> <a href="https://www.linkedin.com/in/alaasaedy/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a></p>
 
