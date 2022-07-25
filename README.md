@@ -4,7 +4,7 @@
 
 ### Currently working at/as 💼 
 
-- [Front End Engineer : robustastudio](https://robustastudio.com/) 🌱
+- [Front End Engineer at RobustaStudio](https://robustastudio.com/) 🌱
 
 
 <!-- - 🔭 I’m currently working on  <a href="Pickly.io">Pickly.io</a>
