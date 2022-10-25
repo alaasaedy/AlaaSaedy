@@ -1,6 +1,6 @@
 <h2>Hello there! 👋</h2>
 
-<p>Enthusiastic Software developer specialized in Front-End development with a passion for software developmentg.</p>
+<p>Enthusiastic Software developer specialized in Front-End development with a passion for software development.</p>
 
 ### Currently working as/at 💼 
 
