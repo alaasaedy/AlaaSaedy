@@ -15,8 +15,8 @@
 - reach me:  <p> <a href="https://www.linkedin.com/in/alaasaedy/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaSaedy&layout=compact)](https://github.com/AlaaSaedy/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaSaedy&layout=compact)](https://github.com/AlaaSaedy/github-readme-stats)
 
-![Alaa's Github Stats](https://github-readme-stats.vercel.app/api?username=AlaaSaedy&show_icons=true&theme=algolia)
+![Alaa's Github Stats](https://github-readme-stats.vercel.app/api?username=AlaaSaedy&show_icons=true&theme=algolia) -->
 
 
