@@ -4,7 +4,7 @@
 
 ### Currently working as/at 💼 
 
-- [Front End Engineer at ITWorx](https://itworx.com/) 🌱
+- [Sr. Software Engineer at ITWorx](https://itworx.com/) 🌱
 
 
 <!-- - 🔭 I’m currently working on  <a href="Pickly.io">Pickly.io</a>
